@@ -7,6 +7,9 @@ Hi, I am Ifeoluwa, Software engineer. I build programs and solve problems. Comp 
 * **[VibeCraft](https://github.com/Ifeoludev/vibecraft)** - AI pipeline converting mood inputs into custom YouTube Music playlists.
 * **[ZikByte](https://github.com/Ifeoludev/zikbyte)** - Image compressor.
 
-**Tech Stack**
+**Interests**
+When not coding, I spend my time reading, learning about history, playing the keyboard and saxophone, listening to music, and talking to people.* 
+
+**Languages & Tools:**
 <br>
-**Languages & Tools:**<img src="https://skillicons.dev/icons?i=js,ts,html,css,react,tailwind,nodejs,express,postgres,redis,git,github,docker" height="35" />
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,react,tailwind,nodejs,express,postgres,redis,git,github,docker" height="35" />
