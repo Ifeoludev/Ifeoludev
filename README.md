@@ -9,4 +9,4 @@ Hi, I am Ifeoluwa, Software engineer. I build programs and solve problems. Comp 
 
 **Tech Stack**
 <br>
-<img src="https://skillicons.dev/icons?i=js,ts,html,css,react,tailwind,nodejs,express,postgres,redis,git,github,docker" height="35" />
+**Languages & Tools:**<img src="https://skillicons.dev/icons?i=js,ts,html,css,react,tailwind,nodejs,express,postgres,redis,git,github,docker" height="35" />
