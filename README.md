@@ -8,7 +8,7 @@ I am Ifeoluwa, Software engineer. I build programs and solve problems. Comp Eng 
 ### Featured Projects
 * **[MealMind](https://github.com/Ifeoludev/MealMind)** - AI-powered meal planner for personalized menus and grocery lists.
 * **[VibeCraft](https://github.com/Ifeoludev/vibecraft)** - AI pipeline converting mood inputs into custom YouTube Music playlists.
-* **[ZikByte](https://github.com/Ifeoludev/zikbyte)** - Full-stack image compression service.
+* **[ZikByte](https://github.com/Ifeoludev/zikbyte)** - Image compressor
 
 ### Interests
 Frontend engineering, building end-to-end products, AI, backend engineering, and solving complex problems.
